@@ -3,6 +3,22 @@ public class Ficha {
 
 	String color= "amarillo";
 	String quesitos = "ciencias";
-	//asdsafd
+	//puto amo
+	int 
+	dfvdfbz
+	sdv
+	sf
+	vsd
+	vxf
+	bsf
+	bsfb
+	sf
+	bsf
+	bsf
+	bsf
+	bsf
+	bs
+	fbsf
+	b
 	
 }
